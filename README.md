@@ -4,4 +4,4 @@ In this repository, one can find the proposed assets (by anquii) for new logos t
 ![nav](nav/nav-logo-gradient-with-text.png)
 ![xnav](xnav/xnav-logo-black-with-text.png)
 
-As part of the git directory, one can also find the above logos without the added text, or as variations where the context may differ (e.g. depending on the background being light, dark or colored). A few marketing graphics can also be found, where one can see the nav logo in use.
+As part of the git directory, one can also find the above logos without the added text, or as variations where the context may differ (e.g. depending on the background being light, dark or colored). A few [marketing graphics](nav/icon-in-action) can also be found, where one can see the nav logo in use.
