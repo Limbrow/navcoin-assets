@@ -1,5 +1,5 @@
 # Navcoin assets (by anquii)
-In this repository, you can find the assets of the new logos recently [accepted]((https://navexplorer.com/dao/consultation/e8bc48865162dc2f4fbac52b7d71835730aad5d43bbc8c3f84fc3576f27ea7e2)) by Navcoin's community through their on-chain governance (DAO) system. 
+In this repository, you can find the assets of the new logos recently [accepted](https://navexplorer.com/dao/consultation/e8bc48865162dc2f4fbac52b7d71835730aad5d43bbc8c3f84fc3576f27ea7e2) by Navcoin's community through their on-chain governance (DAO) system. 
 
 ![](navcoin-assets.png)
 
